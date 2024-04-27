@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
-    <title>Path 2</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Accounts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" opacity="0.700577446" stroke-linejoin="round">
-        <g id="Accounts-filtering-Copy-8" transform="translate(-1077.000000, -203.000000)" stroke="#6F7275" stroke-width="2">
-            <g id="Table-controls" transform="translate(227.000000, 196.000000)">
-                <g id="Filters" transform="translate(766.000000, 0.000000)">
-                    <polyline id="Path-2" points="85 8 89.2703988 11.9413477 93 8"></polyline>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="6" version="1.1" viewBox="0 0 10 6"><title>Path 2</title><desc>Created with Sketch.</desc><g id="Accounts" fill="none" fill-rule="evenodd" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" opacity=".701"><g id="Accounts-filtering-Copy-8" stroke="#6F7275" stroke-width="2" transform="translate(-1077.000000, -203.000000)"><g id="Table-controls" transform="translate(227.000000, 196.000000)"><g id="Filters" transform="translate(766.000000, 0.000000)"><polyline id="Path-2" points="85 8 89.27 11.941 93 8"/></g></g></g></g></svg>
